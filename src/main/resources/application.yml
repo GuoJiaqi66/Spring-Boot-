@@ -1,0 +1,14 @@
+spring:
+  mail:
+#    host: smtp.mxhichina.com
+#    port: 25
+#    username: zwsave@aliyun.com
+#    password: Ja7.hook
+#    default-encoding: UTF-8
+
+
+    host: smtp.qq.com
+    password:  cexwfiufjvdrbdeh
+    properties.smtp.auth: true
+    properties.smtp.timeout: 25000
+    username: 858064356@qq.com
